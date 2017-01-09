@@ -1,0 +1,21 @@
+body {
+  font-family: 'Open Sans', sans-serrif;
+  text-align: center;
+  background-color: #fff;
+  color: #999;
+}
+
+header h1 {
+	text-align: center;
+	text-decoration: bold;
+}
+
+.artfoot {
+	text-align: center;
+
+}
+
+.mainfoot {
+	text-align: left;
+	text-decoration: bold;
+}
